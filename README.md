@@ -7,23 +7,21 @@ Currently work as a tutor at CoderHouse teaching Back-end technologies, and as a
 const benettiCarlos = {
   location: Argentina,
   languages: [Html, Css, Javascript, Typescript, Python, Solidity],
-  tools: [React, Node, Express, MySql, Postgresql, Mongo, ThreeJs],
+  tools: [React, Node, Express, MySql, Postgresql, Mongo, ThreeJs, Ganache, Truffle, HardHat],
   lovePuppies: true,
 }
 ```
-
-## 🌎 You can find me:
-- [Mail](benetticarlos1@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/benetti-carlos/)
-
- 
 ## 🌱 I’m currently learning:
 - C++ and Unreal Engine to be able to create immersive environments 🎮
 - I keep studying solidity to master this technology 💪
 
 
+## 🌎 You can find me:
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=benetticarlos)](https://github.com/anuraghazra/github-readme-stats)
+  - Linkedin 🔗 :   https://www.linkedin.com/in/benetti-carlos/
+    
+  - Mail 📫:        benetticarlos1@gmail.com
+
 
 <!--
 **benetticarlos/benetticarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
