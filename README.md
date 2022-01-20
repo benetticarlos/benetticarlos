@@ -11,10 +11,6 @@ const benettiCarlos = {
   lovePuppies: true,
 }
 ```
-## 🌱 I’m currently learning:
-- C++ and Unreal Engine to be able to create immersive environments 🎮
-- I keep studying solidity to master this technology 💪
-
 
 ## 🌎 You can find me:
 
